@@ -2,3 +2,5 @@ master new
 master mA
 master mB
 master mC
+mybranch A
+mybranch B
